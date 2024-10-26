@@ -1,0 +1,95 @@
+[
+    {
+      "player_image": "https://i.ibb.co.com/vL86qCD/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.webp",
+      "player_name": "Viral Kohli",
+      "country_name": "India",
+      "Round": "All-Rounder",
+      "Batsman": "Leg spin",
+      "Rating": "Rating",
+      "Left_Hand_Bat": "Left-Hand-Bat",
+
+      "price": "$1500000"
+    },
+    {
+      "player_image": "https://i.ibb.co.com/44WVPHL/images.jpg",
+      "player_name": "Joe Root",
+      "country_name": "England",
+      "Round": "Batsman",
+      "Rating": "Rating",
+      "Left_Hand_Bat": "Left-Hand-Bat",
+      "Batsman": "Leg spin",
+      "price": "$1400000"
+    },
+    {
+      "player_image": "https://i.ibb.co.com/C93LFX1/images-1.jpg",
+      "player_name": "Kane Williamson",
+      "country_name": "New Zealand",
+      "Round": "Batsman",
+      "Rating": "Rating",
+      "Left_Hand_Bat": "Left-Hand-Bat",
+      "Batsman": "Leg spin",
+      "price": "$1350000"
+    },
+    {
+      "player_image": "https://i.ibb.co.com/Gnbg7RX/download.jpg",
+      "player_name": "Tamim Iqbal",
+      "country_name": "Bangladesh",
+      "Round": "Batsman",
+      "Rating": "Rating",
+      "Left_Hand_Bat": "Left-Hand-Bat",
+      "Batsman": "Leg spin",
+      "price": "$1450000"
+    },
+    {
+      "player_image": "https://i.ibb.co.com/41W9ZTN/download-1.jpg",
+      "player_name": "Ms Dhoni",
+      "country_name": "India",
+      "Rating": "Rating",
+      "Round": "Batsman",
+      "Left_Hand_Bat": "Left-Hand-Bat",
+      "Batsman": "Leg spin",
+      "price": "$1550000"
+    },
+    {
+      "player_image": "https://i.ibb.co.com/ZBKKz33/download-2.jpg",
+      "player_name": "Babar Azam",
+      "country_name": "Pakistan",
+      "Round": "Batsman",
+      "Rating": "Rating",
+      "Left_Hand_Bat": "Left-Hand-Bat",
+      "Batsman": "Leg spin",
+      "price": "$1550000"
+    },
+    {
+      "player_image": "https://i.ibb.co.com/0rGfpJm/download-3.jpg",
+      "player_name": "Pat Cummins",
+      "country_name": "Australia",
+      "Round": "Batsman",
+      "Rating": "Rating",
+      "Left_Hand_Bat": "Left-Hand-Bat",
+      "Batsman": "Leg spin",
+      "price": "$1550000"
+    },
+    {
+      "player_image": "https://i.ibb.co.com/NVytvq2/shakib.jpg",
+      "player_name": "Shakib Al Hasan",
+      "country_name": "Bangladesh",
+      "Round": "Batsman",
+      "Rating": "Rating",
+      "Left_Hand_Bat": "Left-Hand-Bat",
+      "Batsman": "Leg spin",
+      "price": "$1550000"
+    },
+    {
+      "player_image": "https://i.ibb.co.com/Wc2wxSk/download.jpg",
+      "player_name": "Jasprit bumrah",
+      "country_name": "India",
+      "Round": "Batsman",
+      "Rating": "Rating",
+      "Left_Hand_Bat": "Left-Hand-Bat",
+      "Batsman": "Leg spin",
+      "price": "$1550000"
+    }
+    
+  ]
+  
